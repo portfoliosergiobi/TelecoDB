@@ -11,6 +11,7 @@ CREATE TABLE Clientes (
     FechaRegistro DATE
 );
 
+
 -- Crear tabla de Servicios
 CREATE TABLE Servicios (
     IDServicio INT PRIMARY KEY,
